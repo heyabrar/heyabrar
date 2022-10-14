@@ -7,12 +7,12 @@
 </div>
 
 <div align='center'>
-<h5>An Ambitious web developer with the ability to write neat and understandable code</h5>
+<h5>An Ambitious web developer with the ability to write neat and understandable code.</h5>
 <div/>
 
 <div>
 <h4>A Passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by  <a href='https://www.masaischool.com/'>Masai School's</a> intensive and 
-immersive learning</h4>
+immersive learning.</h4>
 </div>
 
 
@@ -38,22 +38,3 @@ immersive learning</h4>
 <h4><a href='https://twitter.com/_iam_a_k'>Twitter</a></h4>
 <h4>Mail : heyabrarkhan@gmail.com</h4>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
