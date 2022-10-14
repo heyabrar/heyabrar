@@ -33,7 +33,7 @@ immersive learning</h4>
 </div>
 
 <div align='left'>
-<h2>Get In Touch 📫</h2>
+<h2>Find me around the web 🌐</h2>
 <h4><a href='https://www.linkedin.com/in/abrar-khan-b67333230'>LinkedIn</a></h4>
 <h4><a href='https://twitter.com/_iam_a_k'>Twitter</a></h4>
 <h4>Mail : heyabrarkhan@gmail.com</h4>
