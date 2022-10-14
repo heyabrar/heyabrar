@@ -34,8 +34,10 @@ immersive learning.</h4>
 
 <div align='left'>
 <h2>Find me around the web 🌐</h2>
-<h4><a href='https://www.linkedin.com/in/abrar-khan-b67333230'>LinkedIn</a></h4>
-<h4><a href='https://twitter.com/_iam_a_k'>Twitter</a></h4>
+<a href='https://www.linkedin.com/in/abrar-khan-b67333230'><img width='30px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg'/></a>
+<a href='https://twitter.com/_iam_a_k'><img width='30px' height='30px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg'/></a>
+
+
 <h4>Mail : heyabrarkhan@gmail.com</h4>
 </div>
 
