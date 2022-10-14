@@ -34,7 +34,7 @@ immersive learning.</h4>
 
 <div align='left'>
 <h2>Find me around the web 🌐</h2>
-<a href='https://www.linkedin.com/in/abrar-khan-b67333230' target='_blank'><img width='30px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg'/></a>
+<a target='_blank' href='https://www.linkedin.com/in/abrar-khan-b67333230' ><img width='30px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg'/></a>
 <a href='https://twitter.com/_iam_a_k' target='_blank'><img width='30px' height='30px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg'/></a>
 
 
