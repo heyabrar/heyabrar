@@ -39,7 +39,6 @@ immersive learning.</h4>
 <h4>Mail : heyabrarkhan@gmail.com</h4>
 </div>
 
-<div align='left'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyabrar&layout=compact)](https://github.com/heyabrar/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyabrar&layout=compact)](https://github.com/heyabrar/github-readme-stats)
+
 ![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabrar&show_icons=true)
