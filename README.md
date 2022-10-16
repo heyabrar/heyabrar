@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-<img src='https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png'/>
+<img src='http://digitalmarketingdeal.com/blog/wp-content/uploads/2019/01/BH_E1-Garver.jpg'/>
 </div>
 
 <div align='center'>
