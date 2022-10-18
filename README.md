@@ -38,3 +38,10 @@ immersive learning.</h4>
 <a href='https://twitter.com/_iam_a_k' target='_blank'><img width='30px' height='30px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg'/></a>
 <h4>Mail : heyabrarkhan@gmail.com</h4>
 </div>
+
+<div align='left'>
+  <h2>Stats</h2>
+</div>
+
+[![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabrar)](https://github.com/heyabrar/github-readme-stats)
+
