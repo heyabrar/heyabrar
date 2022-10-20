@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-<img src='http://digitalmarketingdeal.com/blog/wp-content/uploads/2019/01/BH_E1-Garver.jpg'/>
+<img src='http://digitalmarketingdeal.com/blog/wp-content/uploads/2019/01/BH_E1-Garver.jpg' width='600px' />
 </div>
 
 <div align='center'>
