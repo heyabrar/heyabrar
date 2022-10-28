@@ -1,5 +1,5 @@
 <div align='center'>
- <h2>Hello World 🌏,Myself Abrar Khan 🙃<h2/>
+ <h2>Hello World 🌏 Myself Abrar Khan 🙃<h2/>
 </div>
 
 <div align='center'>
@@ -30,6 +30,10 @@ immersive learning.</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="Mongodb" **alt="Git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" **alt="Git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" **alt="Git" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="Git" width="40" height="40"/> 
+ <img src="https://www.coffeeclass.io/logos/chakra-ui.png" title="Git" **alt="Chakra UI" width="40" height="40"/> 
 </div>
 
 <div align='left'>
