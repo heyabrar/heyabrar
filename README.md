@@ -49,5 +49,5 @@ immersive learning.</h4>
 
 
 
-[![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabrar)](https://github.com/heyabrar/github-readme-stats)
+[![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabrar&count_private=true)](https://github.com/heyabrar/github-readme-stats)
 
