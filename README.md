@@ -33,6 +33,14 @@ immersive learning.</h4>
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="Git" width="40" height="40"/> 
  <img src="https://www.coffeeclass.io/logos/chakra-ui.png" title="Git" **alt="Chakra UI" width="40" height="40"/> 
 </div>
+  
+  <div align='left'>
+    <h2>Interest</h2>
+    <li>I am a bibliophile</li>
+    <li>I love to build Web application with good UI & UX design.</li>
+    <li>Exploring new things in a new way.</li>
+    <li>Car's and Bike's make my life happy.</li>
+  </div>
 
 <div align='left'>
 <h2>Find me around the web 🌐</h2>
