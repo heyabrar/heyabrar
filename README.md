@@ -45,7 +45,16 @@ immersive learning.</h4>
   <h2>Stats</h2>
 </div>
 
+  [![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabrar&count_private=true)](https://github.com/heyabrar/github-readme-stats)
+  <div>
+       <a href="https://github.com/heyabrar">
+           <img width={{base : '250px', md : '480px', lg : '500px'}} src="https://github-readme-streak-stats.herokuapp.com/?user=heyabrar&show_icons=true&count_private=true&border=white"/></a>
+   </div>
+  
+ <div>
+    <a href="https://github.com/heyabrar">
+       <img width={{base : '250px', md : '260px', lg : '350px'}} src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyabrar&show_icons=true&count_private=true"/></a>
+  </div>
 
 
-[![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabrar&count_private=true)](https://github.com/heyabrar/github-readme-stats)
-
+ 
