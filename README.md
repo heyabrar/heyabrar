@@ -36,7 +36,7 @@ immersive learning.</h4>
   
   <div align='left'>
     <h2>Interest</h2>
-    <li>I am a bibliophile</li>
+    <li>Trying to be a bibliophile.</li>
     <li>I love to build Web application with good UI & UX design.</li>
     <li>Exploring new things in a new way.</li>
     <li>Car's and Bike's make my life happy.</li>
