@@ -54,7 +54,7 @@ immersive learning.</h4>
 </div>
 
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabrar&show_icons=true&theme=radical)
+  ![Abrar's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=heyabrar&show_icons=true&theme=light&include_all_commits=true&count_private=true)
   <div>
        <a href="https://github.com/heyabrar">
            <img width={{base : '250px', md : '480px', lg : '500px'}} src="https://github-readme-streak-stats.herokuapp.com/?user=heyabrar&show_icons=true&count_private=true&border=white"/></a>
@@ -62,7 +62,7 @@ immersive learning.</h4>
   
  <div>
     <a href="https://github.com/heyabrar">
-       <img width={{base : '250px', md : '260px', lg : '350px'}} src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyabrar&show_icons=true&count_private=true"/></a>
+       <img width={{base : '250px', md : '260px', lg : '350px'}} src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heyabrar&layout=compact&langs_count=5&theme=light'/></a>
   </div>
 
 
