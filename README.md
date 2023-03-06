@@ -31,7 +31,9 @@ immersive learning.</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" **alt="Git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" **alt="Git" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="Git" width="40" height="40"/> 
- <img src="https://www.coffeeclass.io/logos/chakra-ui.png" title="Git" **alt="Chakra UI" width="40" height="40"/> 
+ <img src="https://www.coffeeclass.io/logos/chakra-ui.png" title="Chakra ui" **alt="Chakra UI" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" title="Git" **alt="Chakra UI" width="40" height="40"/> 
+  
 </div>
   
   <div align='left'>
