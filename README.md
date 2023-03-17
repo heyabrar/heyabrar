@@ -8,8 +8,6 @@
 <div/>
 
 <div>
-<h4>A Passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by  <a href='https://www.masaischool.com/'>Masai School's</a> intensive and 
-immersive learning.</h4>
 </div>
 
 
