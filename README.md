@@ -62,7 +62,7 @@
   
  <div>
     <a href="https://github.com/heyabrar">
-       <img width={{base : '250px', md : '260px', lg : '350px'}} src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heyabrar&layout=compact&langs_count=5&theme=light'/></a>
+       <img width={{base : '250px', md : '260px', lg : '350px'}} src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heyabrar&layout=compact&langs_count=5&theme=light&count_private=true'/></a>
   </div>
 
 
