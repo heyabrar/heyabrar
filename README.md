@@ -1,15 +1,11 @@
 
 <div align='center'>
-  <img src='https://user-images.githubusercontent.com/103938174/220840155-107b0c28-2328-485f-9a94-4bc1e810b40f.png'/>
+  <img src='https://github.com/heyabrar/heyabrar/assets/103938174/2de2b138-2949-41f8-a3a7-441d62a2430c'/>
 </div>
 
 <div align='center'>
 <h5>An Ambitious web developer with the ability to write neat and understandable code.</h5>
 <div/>
-
-<div>
-</div>
-
 
 <div align='left' id='badges'>
 <h2>Skills and Tools</h2>
