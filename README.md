@@ -5,7 +5,7 @@
 </div>
 
 <div align='center'>
-<h5>An Ambitious web developer with the ability to write neat and understandable code.</h5>
+<h5>An Ambitious web developer.</h5>
 <div/>
 
 <div align='left' id='badges'>
