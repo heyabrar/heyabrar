@@ -4,9 +4,7 @@
 '/>
 </div>
 
-<div align='center'>
-<h5>An Ambitious web developer.</h5>
-<div/>
+
 
 <div align='left' id='badges'>
 <h2>Skills and Tools</h2>
