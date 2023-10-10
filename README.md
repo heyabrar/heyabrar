@@ -1,7 +1,6 @@
 
 <div align='center'>
-  <img src='https://github.com/heyabrar/heyabrar/assets/103938174/9f2a5d95-69cd-4da8-aaf4-9d2e963669dd'
-'/>
+  <img src='https://github.com/heyabrar/heyabrar/assets/103938174/9f5a7ceb-4517-4e8a-8a41-ee58b9facf3a'/>
 </div>
 
 
