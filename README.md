@@ -1,6 +1,6 @@
 
 <div align='center'>
-  <img src='https://github.com/heyabrar/heyabrar/assets/103938174/c21bf677-95ab-4470-b311-e873bace262d'/>
+  <img src='https://media.licdn.com/dms/image/D5616AQGVDOuriLFVeg/profile-displaybackgroundimage-shrink_350_1400/0/1709555380881?e=1723075200&v=beta&t=QmW9eRmDSPKPFRWi5Os_IVi-96oIiMKkCSMQGn1IWx0'/>
 </div>
 
 
